@@ -1,4 +1,4 @@
-# Amazon Sorting Reviews
+# Amazon Rating & Sorting Reviews
 ![amazon_logo _CB633269640_](https://user-images.githubusercontent.com/83352965/209563633-bbd91bf1-3c7f-4c95-9249-da0e84b1dec2.png)
 # Business Problem
 One of the most important problems in e-commerce is the correct calculation of the points
