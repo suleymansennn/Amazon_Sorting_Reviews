@@ -10,15 +10,15 @@ financial loss and loss of customers. In the solution of these 2 basic problems,
 e-commerce site and the sellers will increase their sales, the customers will complete the
 purchasing journey without any problems.
 # Features
-- reviewerID --> User Id
-- asin --> Product Id
-- reviewerName --> User name 
-- helpful --> Useful Evaluation Degree
-- reviewText --> Evaluation
-- overall --> Product Rating
-- summary --> Evaluation Summary
-- unixReviewTime --> Evaluation Time
-- reviewTime --> Evaluation Time {RAW}
-- day_diff --> Number of days since assessment
-- helpful_yes --> The number of times the evaluation was found useful
-- total_vote --> Number of votes given to the evaluation
+- reviewerID: User Id
+- asin: Product Id
+- reviewerName: User name 
+- helpful: Useful Evaluation Degree
+- reviewText: Evaluation
+- overall: Product Rating
+- summary: Evaluation Summary
+- unixReviewTime: Evaluation Time
+- reviewTime: Evaluation Time {RAW}
+- day_diff: Number of days since assessment
+- helpful_yes: The number of times the evaluation was found useful
+- total_vote: Number of votes given to the evaluation
